@@ -1,5 +1,5 @@
 # CAPP-Computer-Version
-![app_icon](https://user-images.githubusercontent.com/51367686/58907398-b7e39680-872b-11e9-8736-1ab9a642482b.png)
+![app_icon - Copy](https://user-images.githubusercontent.com/51367686/58907647-4f48e980-872c-11e9-8240-f074bf0d3aba.png)
 CAPP is A Calculative application made on java.
 It help to do different kind of calculation options such as: 
 - Simple Calculator - Finding Multiplication Table of a number 
