@@ -47,6 +47,12 @@ It help to do different kind of calculation options such as:
 Each Calculator have Copy option to copy the result Notebook feature which work as unlimited notepad to save your result as file 
 Also it alerts you to save data if it contains result on CAPP Window*
 
-
-
 ![Main Menu](https://user-images.githubusercontent.com/51367686/58907727-7acbd400-872c-11e9-8b2e-e98a19961012.PNG)
+![AREA CALCULATOR OPTION](https://user-images.githubusercontent.com/51367686/58907856-bc5c7f00-872c-11e9-847c-651243ee0b50.PNG)
+![Ascending descenting decimal2](https://user-images.githubusercontent.com/51367686/58907857-bcf51580-872c-11e9-9443-1e12a80fa01e.PNG)
+![Data checking before going back ](https://user-images.githubusercontent.com/51367686/58907858-bcf51580-872c-11e9-8700-d7b30fe953b0.PNG)
+![FindTest](https://user-images.githubusercontent.com/51367686/58907861-bd8dac00-872c-11e9-92b0-cfe9b7129e8f.PNG)
+![Info with sound](https://user-images.githubusercontent.com/51367686/58907862-bd8dac00-872c-11e9-8df3-580998a7eefe.PNG)
+![NoteBook Feature](https://user-images.githubusercontent.com/51367686/58907863-be264280-872c-11e9-9a8f-e478366a8142.PNG)
+![Volume_option](https://user-images.githubusercontent.com/51367686/58907864-be264280-872c-11e9-9727-0cf3f30a67cb.png)
+
