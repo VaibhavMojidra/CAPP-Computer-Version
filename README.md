@@ -3,7 +3,8 @@
 
 CAPP is A Calculative application made on java.
 It help to do different kind of calculation options such as: 
-- Simple Calculator - Finding Multiplication Table of a number 
+- Simple Calculator 
+- Finding Multiplication Table of a number 
 - Finding Factorial of a number 
 - Checking of Prime Number 
 - Checking even or odd 
