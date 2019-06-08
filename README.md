@@ -42,7 +42,9 @@ It help to do different kind of calculation options such as:
 - Finding all Cube numbers in given range 
 - Finding Largest and Smallest number in number set 
 - Finding all Dividends in given range which is divisiable by your divisor 
-- Sorting of Decimal numbers - Sorting of Binary numbers   
+- Sorting of Decimal numbers 
+- Sorting of Binary numbers
+- Sorting of Hexadecimal numbers
 
 *Each Calculator have Reset option , a info option which explain use and working of calculator with sounds 
 Each Calculator have Copy option to copy the result Notebook feature which work as unlimited notepad to save your result as file 
