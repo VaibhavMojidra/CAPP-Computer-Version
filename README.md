@@ -1,7 +1,5 @@
 # CAPP-Computer-Version
-For any Query You can contact me on any social : [Click here to contact me](https://vaibhavmojidra.blogspot.com/2019/12/about.html)
 ![app_icon - Copy](https://user-images.githubusercontent.com/51367686/58907647-4f48e980-872c-11e9-8240-f074bf0d3aba.png)
-
 
 [![IMG_20190608_191145](https://user-images.githubusercontent.com/51367686/59148072-64ba5e00-8a21-11e9-845b-83b9a5187312.jpg)](https://youtu.be/V-fBk5Yq0P8)
   YouTube : [CAPP-Computer Version](https://youtu.be/V-fBk5Yq0P8)
